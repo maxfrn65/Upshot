@@ -1,2 +1,2 @@
 # Upshot
- ENT app for education
+ ENT App for Education
